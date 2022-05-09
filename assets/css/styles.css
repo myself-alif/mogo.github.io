@@ -862,21 +862,21 @@ footer {
 
 @media (max-width: 430px) {
   .mobile-view {
+    top: 40%;
+  }
+}
+@media (max-width: 396px) {
+  .mobile-view {
     top: 30%;
   }
 }
 @media (max-width: 396px) {
   .mobile-view {
-    top: 20%;
-  }
-}
-@media (max-width: 396px) {
-  .mobile-view {
-    top: 10%;
+    top: 15%;
   }
 }
 @media (max-width: 310px) {
   .mobile-view {
-    top: 2%;
+    top: 5%;
   }
 }

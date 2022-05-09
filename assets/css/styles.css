@@ -858,6 +858,9 @@ footer {
   .testimonial {
     text-align: justify;
   }
+  
+  .mobile-view {
+    top:48%;
 }
 
 @media (max-width: 430px) {

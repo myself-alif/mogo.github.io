@@ -878,9 +878,9 @@ footer {
     top: 31%;
   }
 }
-@media (max-width: 392px) {
+@media (max-width: 394px) {
   .mobile-view {
-    top: 28%;
+    top: 27%;
   }
 }
   
